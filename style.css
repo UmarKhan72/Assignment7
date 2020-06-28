@@ -1,0 +1,47 @@
+.jsmain{
+    border: 15px solid black;
+    width: 200px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.jsresult{
+    background-color: rgb(209, 209, 209);
+    color: black;
+    width: 190px;
+    height: 40px;
+    margin-top: 10px;
+
+}
+
+.jsclearBtn{
+    background-color: rgb(253, 87, 87);
+    width: 45px;
+    height: 45px;
+    margin: 1px;
+    margin-top: 15px;
+
+}
+
+.jsbtn{
+    background-color: rgb(253, 182, 51);
+    width: 45px;
+    height: 45px;
+    margin: 1px;
+    margin-top: 15px;
+    color: black;
+}
+
+.jsbtn1{
+    background-color: rgb(253, 87, 87);
+    width: 45px;
+    height: 45px;
+    margin: 1px;
+    margin-top: 15px;
+    color: white;
+}
+
+h1 {
+    margin-left: 705px;
+    margin-top: 60px;
+}
